@@ -1,0 +1,130 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2024-07-13 13:51:32 -0400
+
+krage / request
+
+Used drive : HL-DT-ST BD-RE WP50NB40 (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:45:25 |         0    |    16899   
+        2  | 03:45:25 | 04:09:68 |     16900    |    35642   
+        3  | 07:55:18 | 01:31:65 |     35643    |    42532   
+        4  | 09:27:08 | 01:31:64 |     42533    |    49421   
+        5  | 10:58:72 | 03:46:17 |     49422    |    66388   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -11.27 dB
+    Peak                     : 0.988739
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/RIPS/krage - request [FLAC]/01 request.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -12.32 dB
+    Peak                     : 0.988739
+    CRC32 hash (test run)    : 2B428482
+    CRC32 hash               : 2B428482
+    CRC32 hash (skip zero)   : FDC0DB19
+    AccurateRip v1 signature : ED564FF5
+    AccurateRip v2 signature : A694E506
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/RIPS/krage - request [FLAC]/02 春想.flac
+
+    Track gain               : -10.92 dB
+    Peak                     : 0.952423
+    CRC32 hash (test run)    : 747F3063
+    CRC32 hash               : 747F3063
+    CRC32 hash (skip zero)   : FD5DB5E2
+    AccurateRip v1 signature : 0C422711
+    AccurateRip v2 signature : 41AA71D2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/RIPS/krage - request [FLAC]/03 request (Animation： Solo Leveling Edition).flac
+
+    Track gain               : -11.13 dB
+    Peak                     : 0.988739
+    CRC32 hash (test run)    : 41775B5E
+    CRC32 hash               : 41775B5E
+    CRC32 hash (skip zero)   : C4B26323
+    AccurateRip v1 signature : 8473E9C2
+    AccurateRip v2 signature : 1C010123
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/RIPS/krage - request [FLAC]/04 request (English ver.).flac
+
+    Track gain               : -11.29 dB
+    Peak                     : 0.988708
+    CRC32 hash (test run)    : C11C490B
+    CRC32 hash               : C11C490B
+    CRC32 hash (skip zero)   : ED57DD0E
+    AccurateRip v1 signature : 6C24EAED
+    AccurateRip v2 signature : 6DA8CF34
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/RIPS/krage - request [FLAC]/05 request (Off vocal ver.).flac
+
+    Track gain               : -10.04 dB
+    Peak                     : 0.988739
+    CRC32 hash (test run)    : 30265EDD
+    CRC32 hash               : 30265EDD
+    CRC32 hash (skip zero)   : 623BF74E
+    AccurateRip v1 signature : EAA8117E
+    AccurateRip v2 signature : F256916F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+RG..C4TdptvsA9XBO9voYK5GEF2nYw3y5j_DWrQ1ygSHDDBpP7Bvg8XweST107ZmqOaWvhD2FN1Y8bF1ea_h9J8q4k.pItmarJQvx3q
+-----END XLD SIGNATURE-----
